@@ -2,6 +2,13 @@
 
 An educational supervised-learning case study using semiconductor manufacturing measurements from the [UCI SECOM dataset](https://archive.ics.uci.edu/dataset/179/secom).
 
+## Visual overview
+
+![SECOM industrial fault detection workflow](images/secom-workflow.svg)
+
+*Conceptual pipeline diagram.* The script produces evaluation figures when run with the UCI SECOM dataset. Do not present those charts as validated results until they have been reproduced.
+
+
 ## Method
 - Read numerical measurements and binary pass/fail labels.
 - Remove feature columns with more than 90% missing data.
