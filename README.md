@@ -4,7 +4,6 @@ An educational supervised-learning case study using semiconductor manufacturing 
 
 ## Visual overview
 
-![SECOM industrial fault detection workflow](images/secom-workflow.svg)
 
 *Conceptual pipeline diagram.* The script produces evaluation figures when run with the UCI SECOM dataset. Do not present those charts as validated results until they have been reproduced.
 
@@ -39,3 +38,8 @@ The publication version replaces hard-coded local Windows paths with relative pa
 
 ## Skills
 Python · Scikit-learn · Random Forest · Feature Selection · SMOTE · Imbalanced Classification
+
+
+## Experimental images
+
+No experimentally verified images are included yet. Real code outputs (or photographs of the actual hardware for Arduino) will be added when available. Conceptual diagrams are not presented as measured results.
