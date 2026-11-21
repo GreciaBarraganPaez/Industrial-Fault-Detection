@@ -1,0 +1,11 @@
+# Local environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/
+data/*
+!data/.gitkeep
